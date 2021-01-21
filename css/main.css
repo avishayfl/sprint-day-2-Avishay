@@ -1,0 +1,62 @@
+body {
+    background-color: rgb(6, 87, 29);
+    text-align: center;
+}
+
+h1 {
+    color: white;
+    font-size: 38px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+h2 {
+    color: white;
+    font-size:xx-large;
+    font-family: serif;
+}
+
+h3 {
+    color: white;
+    font-size: 20px;
+
+}
+
+
+table {
+    table-layout: fixed;
+    color: rgb(5, 38, 22);
+    font-size: 20px;
+    margin: auto;
+    height: 300px;
+    width: 300px;
+    border: solid;
+    background-color: #9cd310;
+}
+
+
+
+
+button {
+
+    width: 80px;
+    font-size: 10px;
+    padding: 10px;
+    margin: 20px;
+    background-color: #263238;
+    color: azure;
+    margin: auto;
+    margin-bottom: 10px;
+ 
+   }
+
+.button4 {
+    
+     background-color: rgb(32, 226, 80);
+    color: black;
+    display: none;
+}
+
+.timer {
+    color: wheat;
+}
